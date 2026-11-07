@@ -22,30 +22,37 @@ https://linux.do/t/topic/3123997
 在此提示，不要用大号！！！！
 
 1.在chrome浏览器上点击"加载未打包的拓展程序"，注意打开开发者模式
-image
+<img width="1035" height="375" alt="image" src="https://github.com/user-attachments/assets/69aa6b88-1603-47fe-b68f-4754972ce757" />
+
 
 2.然后打开 one.google.com/plans，按照拓展里步骤，先开12月的，注意正上方的绿色提示，和右下角的提示
-image
+<img width="565" height="880" alt="image" src="https://github.com/user-attachments/assets/6f0d68e6-6466-4ae5-9f3c-2185eda47dda" />
 
-image
 
-image
+<img width="1035" height="200" alt="image" src="https://github.com/user-attachments/assets/6e4ab640-23de-4bc6-bb65-4e19f0c8c987" />
+
+
+<img width="126" height="33" alt="image" src="https://github.com/user-attachments/assets/a37615f8-c80e-46a3-bef8-23176089f6f3" />
+
 
 3.然后选择pro套餐，进行绑卡（需要卡里有至少1u验证，u卡基本都行，测试卡：starryblu/maya/bybit/mexc/招行master/中行2233master/bitEU/wise/savo卡全都可以）付款前一定要看清，第一个步骤首月必定是0元的
 PS：这里需要说明如果是已经给了折扣的情况，如下图，付款时有极大概率需要付款首月的youtube会员，小心别被反薅，正常显示的都是在下个月才收费
 
-image
+<img width="1035" height="423" alt="image" src="https://github.com/user-attachments/assets/2fc47475-e9bf-4ace-b389-d0c18efc2a2a" />
 
-image
+<img width="523" height="795" alt="image" src="https://github.com/user-attachments/assets/09ed7864-bf13-420e-985f-d8ae25346183" />
+
 
 4.然后如果不再出订购页面的话，不要着急，也不要取消订阅（其实取消了也无所谓）。
 先把拓展切换到六个月，再重新进入页面，接着点击切换到年付
 
 就会再次出现订购页面，这里会出现2028.5.5付款（示例日期），不要担心，这个其实还是免费的，到2028.5.5才会付款；同样的方法再次操作，切换下一个6个月，就能实现2年pro会员了
 
-image
+<img width="1035" height="600" alt="image" src="https://github.com/user-attachments/assets/df4433cd-02db-49d4-abe0-426da439e2e9" />
 
-ps：
+
+<img width="618" height="199" alt="image" src="https://github.com/user-attachments/assets/674957a4-da27-423c-b798-992be72795d4" />
+
 
 最后一定注意取消订阅，不要被反薅，因为附带有一个每月的youtube会员需要付费，不取消的话下个月就会被反薅
 
