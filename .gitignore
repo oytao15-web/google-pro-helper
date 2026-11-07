@@ -1,0 +1,22 @@
+# Local account/payment configuration
+config*.json
+*.env
+.env*
+
+# Runtime/browser data
+batch/user_data/
+batch/**/user_data/
+batch/cache/
+batch/logs/
+batch/screenshots/
+batch/tmp/
+
+# Python artifacts
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
